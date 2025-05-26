@@ -1,4 +1,4 @@
-# smart-home
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
